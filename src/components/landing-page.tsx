@@ -231,7 +231,7 @@ export default function AIMasteryHubLanding() {
                       <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
                     ))}
                   </div>
-                  <p className="text-slate-600 mb-6 leading-relaxed">"{testimonial.content}"</p>
+                  <p className="text-slate-600 mb-6 leading-relaxed">&quot;{testimonial.content}&quot;</p>
                   <div className="flex items-center gap-3">
                     <div className="w-10 h-10 rounded-full bg-gradient-to-r from-blue-400 to-purple-500"></div>
                     <div>
