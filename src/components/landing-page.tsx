@@ -203,10 +203,10 @@ export default function AIMasteryHubLanding() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                name: "Anna Kowalska",
-                role: "Data Scientist",
+                name: "Gabi Wu",
+                role: "Doktor w klinice Fasola",
                 content:
-                  "Dzięki AI Mastery Hub zdobyłam umiejętności, które pozwoliły mi awansować na stanowisko Senior Data Scientist. Kursy są praktyczne i aktualne.",
+                  "Mega fajne! Razem z Wafelciem nauczyliśmy się, jak samodzielnie, za pomocą AI, zrobić zdjęcie do prawa jazdy",
                 rating: 5,
               },
               {
